@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0023/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 過去莊嚴劫千佛名經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0446b.xml
+    old_id: T14n0446b
+hash: sha256:5f4375a8be3d6ff663c190824550754ba1fae770cdef8ee016ba6522949804cb

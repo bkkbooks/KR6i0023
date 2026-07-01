@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6i0023/v1
+canonical_location: https://kanripo.org/bkk/KR6i0023/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 過去莊嚴劫千佛名經
+  identifiers:
+    alt_id:
+    - T14n0446b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0446b.xml
+    old_id: T14n0446b
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0023_000.yaml, hash: 'sha256:5f4375a8be3d6ff663c190824550754ba1fae770cdef8ee016ba6522949804cb'}
+  - {seq: 1, filename: KR6i0023_001.yaml, hash: 'sha256:cb2c1a89e76b90a9e3388505c2df2a236f700848bc96a0ebdd84df504e3959d7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0023_001.markers.yaml, hash: 'sha256:5046da101a4cce33fc4b493b6e806255699601d286792f6e23a29e04a47f2322'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0023_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6309
+  label: 過去莊嚴劫千佛名經一名「集諸佛大功德山」
+  type: juan
+  level: 1
+hash: sha256:aae064e33a22cb12506dd1eb275802ccbe6964fc56bc848f7924906104530d05
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
