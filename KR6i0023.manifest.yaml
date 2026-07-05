@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0023_000.yaml, hash: 'sha256:5f4375a8be3d6ff663c190824550754ba1fae770cdef8ee016ba6522949804cb'}
-  - {seq: 1, filename: KR6i0023_001.yaml, hash: 'sha256:cb2c1a89e76b90a9e3388505c2df2a236f700848bc96a0ebdd84df504e3959d7'}
+  - {seq: 1, filename: KR6i0023_001.yaml, hash: 'sha256:416840a6c00d6865a4dc093e151c8b5ef5b7339c7d090463f91055c8cff75611'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0023_001.markers.yaml, hash: 'sha256:5046da101a4cce33fc4b493b6e806255699601d286792f6e23a29e04a47f2322'}
+  - {seq: 0, role: markers, filename: assets/KR6i0023_000.markers.yaml, hash: 'sha256:73f74afb36d548abd37f1d7a313b50efadc9d29f59aecb9670441a97f65e47c0'}
+  - {seq: 1, role: markers, filename: assets/KR6i0023_001.markers.yaml, hash: 'sha256:878dddf0902de4c30e2a366111283fd3ef6eab43684b621bde2eb64283f9819e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 過去莊嚴劫千佛名經一名「集諸佛大功德山」
   type: juan
   level: 1
-hash: sha256:aae064e33a22cb12506dd1eb275802ccbe6964fc56bc848f7924906104530d05
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b323618332fe80101cbe2629ef442226269fed9f06e9239835e1321df03ea0ce
