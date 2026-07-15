@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0023/v1
 canonical_location: https://kanripo.org/bkk/KR6i0023/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 過去莊嚴劫千佛名經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0023_000.yaml, hash: 'sha256:5f4375a8be3d6ff663c190824550754ba1fae770cdef8ee016ba6522949804cb'}
-  - {seq: 1, filename: KR6i0023_001.yaml, hash: 'sha256:416840a6c00d6865a4dc093e151c8b5ef5b7339c7d090463f91055c8cff75611'}
+  - {seq: 1, filename: KR6i0023_001.yaml, hash: 'sha256:9b6ecd5d3866b98c0ffc7bd32e8ecfb3b67957ad47e670afd92c2adbedf606c7'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0023_000.markers.yaml, hash: 'sha256:73f74afb36d548abd37f1d7a313b50efadc9d29f59aecb9670441a97f65e47c0'}
-  - {seq: 1, role: markers, filename: assets/KR6i0023_001.markers.yaml, hash: 'sha256:878dddf0902de4c30e2a366111283fd3ef6eab43684b621bde2eb64283f9819e'}
+  - {seq: 1, role: markers, filename: assets/KR6i0023_001.markers.yaml, hash: 'sha256:9bec090ed301cf1ce5d079dd76518601ba93c3f3db9b7e9466f8eee75a7042a7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 過去莊嚴劫千佛名經一名「集諸佛大功德山」
   type: juan
   level: 1
-hash: sha256:b323618332fe80101cbe2629ef442226269fed9f06e9239835e1321df03ea0ce
+hash: sha256:bb0b5866c5791d5c2ab48b8ed27b42940b0a7a902ab0e85f4f177a76ab5155ce
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
